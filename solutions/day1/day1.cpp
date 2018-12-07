@@ -22,7 +22,7 @@ struct freq {
 	int remainder;
 	int frequency;
 	int pos;
-}frequencies[1000];
+}frequencies[2000];
 
 //positive remainder operator
 int mod(int a, int b) {

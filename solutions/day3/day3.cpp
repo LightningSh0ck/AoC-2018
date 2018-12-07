@@ -8,6 +8,7 @@ using namespace std;
 
 ifstream f("input.txt");
 
+//converts a char array into an unsigned integer. No sign support!
 int convertNum(char *array) {
 	int num = 0;
 	while (*array != 0) {
