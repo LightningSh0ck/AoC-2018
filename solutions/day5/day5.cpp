@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include <stdlib.h>
 #include <cmath>
 #include <cstring>
 //32 is the distance between letter cases
