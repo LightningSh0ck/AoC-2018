@@ -4,6 +4,8 @@ Unlike most that simply rush to find the solution(which I don't find entertainin
 
 I am doing my best to comment out what goes inside my mind, I hope people will find my implementations interesting.
 
+NOTE: all my code that is based on iterating until EOF requires to have the input ended by ONE EMPTY LINE! 
+
 Language: C++
 IDE: Visual Studio 2017 
 
